@@ -15,3 +15,5 @@ evaluate_samples(source_graph, output_graph_name, source_graph_closeness, source
 
 eval_func.R -- used by evaluate_samples function
 
+Example graph:
+[Pokec-graph](https://snap.stanford.edu/data/soc-pokec.html)
